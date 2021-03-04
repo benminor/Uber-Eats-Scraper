@@ -6,6 +6,7 @@ Enter the name of a city (i.e. Toronto), followed by the province abbreiation (O
 
 The output of the file is as follows:
 
+```json
 {
     "McDonald's (Elgin St)": [
         {
@@ -29,3 +30,4 @@ The output of the file is as follows:
         }
     ]
 }
+```
